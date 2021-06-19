@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Theresa Jean-Baptiste, [su21-reu-369](https://github.com/cybertraining-dsc/su21-reu-369), [Edit](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/index.md)
+Theresa Jean-Baptistee, [su21-reu-369](https://github.com/cybertraining-dsc/su21-reu-369), [Edit](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
