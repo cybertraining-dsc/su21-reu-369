@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Project: This is the Descriptive Title of the Example"
+title: 'Cervical Cancer Analysis'
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
@@ -34,14 +34,9 @@ Contents
 
 ## 1. Introduction
 
-Do not include this tip in your document:
-
-> Tip: Please note that an up to date version of these instructions is available at
->
-> * <https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md>
 
 
-Here comes a convincing introduction to the problem
+
 
 ## 2. Report Format
 
@@ -71,48 +66,14 @@ We do not ignore proper markdown while using empty lines between context changes
 1. This is because we encourage best practices to cause issues.
 ```
 
-## 2.1. GitHub Actions
+## 2. DataSets
 
-When going to GitHub Actions you will see a report is autmatically generated with some help on improving your markdown. 
-We will not review any document that does not pass this check.
+Description about my data sets
+ 
+## 3. Other People Works
 
-## 2.2. PAst Copy from Word or other Editors is a Disaster!
-
-We recommend that you sue a proper that is integrated with GitHub or you use the commandline tools. We may include 
-comments into your document that you will have to fix, If you juys past copy you will 
-
-1. Not learn how to use GitHub properly and we deduct points
-2. Overwrite our coments that you than may miss and may result in point deductions as you have not addressed them.
-
-## 2.3. Report or Project
-
-You have two choices for the final project. 
-
-1. Project, That is a final report that includes code.
-2. Report, that is a final project without code.
-   
-YOu will be including the type of the project as a prefix to your title, as well as in the Type tag
-at the beginning of your project.
-
-## 3. Using Images
-
-![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
-
-**Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
-
-## 4. Using itemized lists only where needed
-
-Remember this is not a powerpoint presentation, but a report so we recommend
-
-1. Use itemized or enumeration lists sparingly
-2. When using bulleted lists use * and not - 
-   
-## 5. Datasets
-
-Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
-However, if the data is publicly available you program must contain a download function instead that you customize.
-Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
-the download function.
+research of work others have done with the data set and what I have learned from that work.
+put a refrence in section #9 for each work i have found 
 
 ## 6. Benchmark
 
