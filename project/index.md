@@ -38,7 +38,10 @@ the cervixs
 
 ## 2. DataSets
 
-Description about my data sets
+- The age of a person 
+- Medical status 
+- Tabacoo intake 
+- resources: https://ieeexplore.ieee.org/document/8691126
  
 ## 3. Other People Works
 
