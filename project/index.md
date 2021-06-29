@@ -50,6 +50,7 @@ put a refrence in section #9 for each work i have found
 
 ## 4. Images 
 
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/download-2021-06-29T15-34-01-628Z.png)
 
 ## 5 Benchmark
 
