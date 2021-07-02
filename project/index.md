@@ -1,7 +1,7 @@
 ---
 date: 2021-06-16
 title: "Increasing Cervical Cancer Risk Analysis"
-linkTitle: Example
+linkTitle: "Cervical Cancer"
 tags: ["project", "reu"]
 description: "Here comes the abstract"
 author: Theresa Jeanbaptiste
