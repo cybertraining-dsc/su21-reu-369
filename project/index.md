@@ -21,7 +21,8 @@ Theresa Jean-Baptistee, [su21-reu-369](https://github.com/cybertraining-dsc/su21
 {{% pageinfo %}}
 
 ## Abstract
-Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing higher chances of this cancer. 
+
+Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing higher chances of this cancer. In order to analyize these risk factors a machine learning technique is implemented to help us understand the leading factors of cervical cancer.
 
 Contents
 
@@ -32,6 +33,7 @@ Contents
 **Keywords:** Cervical, Cancer, Diseases, Data, conditions 
 
 ## 1. Introduction
+
 - Find literature on Cervical Cancer, Images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
 the cervixs 
@@ -41,11 +43,11 @@ the cervixs
 - The age of a person 
 - Medical status 
 - Tabacoo intake 
-- resources: https://ieeexplore.ieee.org/document/8691126
+- resources: <https://ieeexplore.ieee.org/document/8691126>
  
 ## 3. Other People Works
 
-research of work others have done with the data set and what I have learned from that work.
+research of work others have done with the data set and what is  learned from others work.
 put a refrence in section #9 for each work i have found 
 
 ## 4. Images 
