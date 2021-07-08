@@ -51,6 +51,7 @@ In this paper, we will study the exact cause and risk factors that may place som
 - Find literature on Cervical Cancer and images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
 the cervixs 
+
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg)
 
 
