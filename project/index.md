@@ -33,6 +33,7 @@ Contents
 **Keywords:** Cervical, Cancer, Diseases, Data, conditions 
 
 ## 1. Introduction
+
 Cervical cancer is a issue that is increasing in various women nationwide, it occurs within the cells of the cervix (can be seen in stage 1 of the image below).
 This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. This occurs most
 commonly in women who are within their 50's and who have symptoms such as watery and bloody discharge, bleeding, and painful intercourse; two other common causes
