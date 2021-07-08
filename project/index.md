@@ -82,7 +82,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 7. Acknowledgments
 
-With the help of Gregor, Yohn and carlos this project was acheieve witg the best with the best results possible.
+With the help of Gregor, Yohn and carlos this project was acheieved witj the best with the best results possible.
 
 ## 8. References
 
