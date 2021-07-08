@@ -75,3 +75,6 @@ the first square bracket.
 [^1]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
 
+
+[^2]:  X. Deng, Y. Luo and C. Wang, "Analysis of Risk Factors for Cervical Cancer Based on Machine Learning Methods," 2018 5th IEEE International Conference on 
+      Cloud Computing and Intelligence Systems (CCIS), 2018, pp. 631-635, doi: 10.1109/CCIS.2018.8691126.
