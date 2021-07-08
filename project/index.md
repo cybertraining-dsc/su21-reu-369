@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Increasing Cervical Cancer Risk Analysis"
 linkTitle: "Cervical Cancer"
 tags: ["project", "reu"]
-description: "Here comes the abstract"
+description: " Within this project, we will use resouces to analyze machine learning to understand the risk of cervical cancer."
 author: Theresa Jeanbaptiste
 github_url: https://github.com/cybertraining-dsc/su21-reu-369/edit/main/project/index.md
 resources:
