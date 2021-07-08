@@ -37,7 +37,7 @@ Cervical cancer is a nationwide issue that is increasing in a number of women, o
 - Find literature on Cervical Cancer, Images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
 the cervixs 
-![Figure 2]https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg
+![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg)
 
 
 ## 2. DataSets
