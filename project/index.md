@@ -82,29 +82,21 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 7. Acknowledgments
 
-Please add acknowledgments to all that contributed or helped on this project.
+With the help of Gregor, Yohn and carlos this project was acheieve witg the best with the best results possible.
 
 ## 8. References
 
-Your report must include at least 6 references. Please use customary academic citation and not just URLs. As we will at 
-one point automatically change the references from superscript to square brackets it is best to introduce a space before 
-the first square bracket.
-
-[^1]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
-      <https://github.com/cloudmesh/cloudmesh-common>
-
-
-[^2]:  X. Deng, Y. Luo and C. Wang, "Analysis of Risk Factors for Cervical Cancer Based on Machine Learning Methods," 2018 5th IEEE International Conference on 
+[^1]:  X. Deng, Y. Luo and C. Wang, "Analysis of Risk Factors for Cervical Cancer Based on Machine Learning Methods," 2018 5th IEEE International Conference on 
       Cloud Computing and Intelligence Systems (CCIS), 2018, pp. 631-635, doi: 10.1109/CCIS.2018.8691126.
 
-[^3]:  E. Karim and N. Neehal, "An Empirical Study of Cervical Cancer Diagnosis using Ensemble Methods," 2019 1st International Conference on Advances in Science,          
+[^2]:  E. Karim and N. Neehal, "An Empirical Study of Cervical Cancer Diagnosis using Ensemble Methods," 2019 1st International Conference on Advances in Science,          
        Engineering and Robotics Technology (ICASERT), 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934464.
 
 [^4]:  D. Moldovan, "Cervical Cancer Diagnosis Using a Chicken Swarm Optimization Based Machine Learning Method," 2020 International Conference on e-Health and 
        Bioengineering (EHB), 2020, pp. 1-4, doi: 10.1109/EHB50910.2020.9280215.
 
-[^5]   Myers, K. M., Feltovich, H., Mazza, E., Vink, J., Bajka, M., Wapner, R. J., Hall, T. J., &amp; House, M. (2015, June 25). The mechanical role of the cervix 
+[^4]   Myers, K. M., Feltovich, H., Mazza, E., Vink, J., Bajka, M., Wapner, R. J., Hall, T. J., &amp; House, M. (2015, June 25). The mechanical role of the cervix 
        in pregnancy. Journal of biomechanics. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4459908/>.
 
-[^6]   Fertility and cervical cancer. Fertility and cervical cancer | Cervical Cancer | Cancer Research UK. (2020, May 20)<https://www.cancerresearchuk.org/about->
+[^5]   Fertility and cervical cancer. Fertility and cervical cancer | Cervical Cancer | Cancer Research UK. (2020, May 20)<https://www.cancerresearchuk.org/about->
        cancer/cervical-cancer/living-with/fertility.
