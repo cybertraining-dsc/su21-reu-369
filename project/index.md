@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Increasing Cervical Cancer Risk Analysis"
 linkTitle: "Cervical Cancer"
 tags: ["project", "reu"]
-description: " Within this project, we will use resouces to analyze machine learning to understand the risk of cervical cancer."
+description: " Within this project, we will use various resouces to analyze the increasing risk of cervical cancer through machine learning."
 author: Theresa Jeanbaptiste
 github_url: https://github.com/cybertraining-dsc/su21-reu-369/edit/main/project/index.md
 resources:
@@ -33,10 +33,12 @@ Contents
 **Keywords:** Cervical, Cancer, Diseases, Data, conditions 
 
 ## 1. Introduction
-
+Cervical cancer is a nationwide issue that is increasing in a number of women, occuring within the cells of the cervix. This cancer is the fourth leadiing cancer, where there  are about 52,800 cases foundt  are found each year, predminatly being in low developed countries. This occurs most commnly in women who are withing their 50's and who have sympotoms such as watery and bloody discharge, bleeding, and painful intercourse; two other common cuase can be an early srat on sexual activity and multiple parnters. The most common way to determine if one maybe affected by this is through 
 - Find literature on Cervical Cancer, Images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
 the cervixs 
+![Figure 2]https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg
+
 
 ## 2. DataSets
 
