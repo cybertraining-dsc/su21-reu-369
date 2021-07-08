@@ -97,7 +97,7 @@ the first square bracket.
 [^2]:  X. Deng, Y. Luo and C. Wang, "Analysis of Risk Factors for Cervical Cancer Based on Machine Learning Methods," 2018 5th IEEE International Conference on 
       Cloud Computing and Intelligence Systems (CCIS), 2018, pp. 631-635, doi: 10.1109/CCIS.2018.8691126.
 
-[^3]:  E. Karim and N. Neehal, "An Empirical Study of Cervical Cancer Diagnosis using Ensemble Methods," 2019 1st International Conference on Advances in Science,           
+[^3]:  E. Karim and N. Neehal, "An Empirical Study of Cervical Cancer Diagnosis using Ensemble Methods," 2019 1st International Conference on Advances in Science,          
        Engineering and Robotics Technology (ICASERT), 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934464.
 
 [^4]:  D. Moldovan, "Cervical Cancer Diagnosis Using a Chicken Swarm Optimization Based Machine Learning Method," 2020 International Conference on e-Health and 
