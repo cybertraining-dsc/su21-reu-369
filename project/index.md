@@ -33,8 +33,22 @@ Contents
 **Keywords:** Cervical, Cancer, Diseases, Data, conditions 
 
 ## 1. Introduction
-Cervical cancer is a nationwide issue that is increasing in a number of women, occuring within the cells of the cervix. This cancer is the fourth leadiing cancer, where there  are about 52,800 cases foundt  are found each year, predminatly being in low developed countries. This occurs most commnly in women who are withing their 50's and who have sympotoms such as watery and bloody discharge, bleeding, and painful intercourse; two other common cuase can be an early srat on sexual activity and multiple parnters. The most common way to determine if one maybe affected by this is through 
-- Find literature on Cervical Cancer, Images of Cervics 
+Cervical cancer is a issue that is increasing in various women nationwide, it occurs within the cells of the cervix (can be seen in stage 1 of the image below).
+This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. This occurs most
+commonly in women who are within their 50's and who have symptoms such as watery and bloody discharge, bleeding, and painful intercourse; two other common causes
+can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this is through a pap smear, when
+witnessed early it can allow a better chance of results and treatment. Below you can see the stage at which this cancer occurs, giving a visualization of how it
+affects the cervix. 
+
+Cervical cancer is so important for the future of reproduction being the cause of a successful or unsuccessful birth with completions like premature a child. The 
+cervix help keeps the fetus stable within the uterus during this cycle, towards the end of development, it softens and dilates for the birth of a child. If
+diagnosed with this cancer a  miracle would be needed to conceive a child after having treatment. Most treatments begin with a biopsy removing affected areas of
+cervical tissue. As it continues to spread radiotherapy might be recommended to treat the cancer where may affect the womb. lastly one may need to have a
+hysterectomy which is the removal of the womb. 
+ 
+In this paper, we will study the exact cause and risk factors that may place someone in this position. If spotted early it wouldn’t affect someone’s dream chance of conceiving or affect their reproductive parts. 
+
+- Find literature on Cervical Cancer and images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
 the cervixs 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg)
