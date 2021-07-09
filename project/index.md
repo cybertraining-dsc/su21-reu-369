@@ -34,27 +34,19 @@ Contents
 
 ## 1. Introduction
 
-Cervical cancer is a issue that is increasing in various women nationwide, it occurs within the cells of the cervix (can be seen in stage 1 of the image below). This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. This occurs most commonly in women who are within their 50's and who have symptoms such as watery and bloody discharge, bleeding, and painful intercourse. Two other common causes can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this disease is through a pap smear. when witnessed early it can allow a better chance of results and treatment. (Below you can see the stage at which this cancer occurs, giving a visualization of how it
-affects the cervix) this part into the parentheses can be write in other section . 
+Cervical cancer is a disease that is increasing in various women nationwide. It occurs within the cells of the cervix (can be seen in stage 1 of the image below). This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. Cervical cancer occurs most commonly in women who are within their 50's and who has symptoms such as watery and bloody discharge, bleeding, and painful intercourse. Two other common causes can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this disease is through a pap smear. When witnessed early it, can allow a better chance of results and treatment. 
 
-Carlos Theran: Cervical cancer is an issue (instead a issue, it could be disease) increasing in various women nationwide. It occurs within the cervix cells (can be seen in stage 1 of the image below). This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. Cervical cancer occurs most commonly in women within their 50's and has symptoms such as watery and bloody discharge, bleeding, and painful intercourse. Two other common causes can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this disease is through a pap smear. When witnessed early, it can allow a better chance of results and treatment.
-
-Cervical cancer is so important for the future of reproduction being the cause of a successful or unsuccessful birth with completions like premature a child. The 
+Cervical cancer is so important for the future of reproduction, being the cause of a successful or unsuccessful birth with completions like premature a child. The 
 cervix help keeps the fetus stable within the uterus during this cycle, towards the end of development, it softens and dilates for the birth of a child. If
-diagnosed with this cancer a  miracle would be needed to conceive a child after having treatment. Most treatments begin with a biopsy removing affected areas of
-cervical tissue. As it continues to spread radiotherapy might be recommended to treat the cancer where may affect the womb. lastly one may need to have a
-hysterectomy which is the removal of the womb. 
+diagnosed with this cancer, a  miracle would be needed to conceive a child after having treatment. Most treatments begin with a biopsy removing affected areas of
+cervical tissue. As it continues, to spread radiotherapy might be recommended to treat the cancer where may affect the womb. lastly, one may need to have a
+hysterectomy which is the removal of the womb.
  
- carlos Theran: Cervical cancer is so important for the future of reproduction, being the cause of successful or unsuccessful birth with completions like premature a child. The cervix help keeps the fetus stable within the uterus during this cycle, towards the end of development, softens and dilates for the birth of a child. If
-diagnosed with cervical cancer, a  miracle would be needed to conceive a child after having treatment. Most treatments begin with a biopsy removing affected areas of
-cervical tissue. As it continues to spread, radiotherapy might be recommended to treat this cancer where may affect the womb. Lastly, one may need to have a
-hysterectomy which is the removal of the womb. 
-In this paper, we will study the exact cause and risk factors that may place someone in this position. If spotted early it wouldn’t affect someone’s dream chance of conceiving or affect their reproductive parts. 
+In this paper, we will study the exact cause and risk factors that may place someone in this position. If spotted early it wouldn’t affect someone’s dream chance of conceiving or affect their reproductive parts. Using various data sets we will study the way everything may alignes in causes and machine leaning would be the primary technique to used interpretate the relation between variables and risk factor on cervical cancer.
 
 - Find literature on Cervical Cancer and images of Cervics 
 - Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
-the cervixs 
-- Carlos Theran: How you are going to study (analize) the cause and risk factors of cervical cancer? Are you going to use AI or ML or correlation amoung variables? The answer of this questio can be you last paragraph
+the cervixs
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg)
 
