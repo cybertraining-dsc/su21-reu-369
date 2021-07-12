@@ -3,7 +3,7 @@ date: 2021-06-16
 title: "Increasing Cervical Cancer Risk Analysis"
 linkTitle: "Cervical Cancer"
 tags: ["project", "reu"]
-description: " Within this project, we will use various resouces to analyze the increasing risk of cervical cancer through machine learning."
+description: "Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing higher chances of this cancer. In order to analyize these risk factors a machine learning technique is implemented to help us understand the leading factors of cervical cancer."
 author: Theresa Jeanbaptiste
 github_url: https://github.com/cybertraining-dsc/su21-reu-369/edit/main/project/index.md
 resources:
@@ -82,7 +82,7 @@ With the help of Gregor, Yohn and carlos this project was acheieved witj the bes
 ## 8. References
 
 [^1]:  X. Deng, Y. Luo and C. Wang, "Analysis of Risk Factors for Cervical Cancer Based on Machine Learning Methods," 2018 5th IEEE International Conference on 
-      Cloud Computing and Intelligence Systems (CCIS), 2018, pp. 631-635, doi: 10.1109/CCIS.2018.8691126.
+       Cloud Computing and Intelligence Systems (CCIS), 2018, pp. 631-635, doi: 10.1109/CCIS.2018.8691126.
 
 [^2]:  E. Karim and N. Neehal, "An Empirical Study of Cervical Cancer Diagnosis using Ensemble Methods," 2019 1st International Conference on Advances in Science,
        Engineering and Robotics Technology (ICASERT), 2019, pp. 1-5, doi: 10.1109/ICASERT.2019.8934464.
@@ -90,8 +90,8 @@ With the help of Gregor, Yohn and carlos this project was acheieved witj the bes
 [^4]:  D. Moldovan, "Cervical Cancer Diagnosis Using a Chicken Swarm Optimization Based Machine Learning Method," 2020 International Conference on e-Health and 
        Bioengineering (EHB), 2020, pp. 1-4, doi: 10.1109/EHB50910.2020.9280215.
 
-[^4]   Myers, K. M., Feltovich, H., Mazza, E., Vink, J., Bajka, M., Wapner, R. J., Hall, T. J., &amp; House, M. (2015, June 25). The mechanical role of the cervix 
+[^4]:  Myers, K. M., Feltovich, H., Mazza, E., Vink, J., Bajka, M., Wapner, R. J., Hall, T. J., House, M. (2015, June 25). The mechanical role of the cervix 
        in pregnancy. Journal of biomechanics. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4459908/>.
 
-[^5]   Fertility and cervical cancer. Fertility and cervical cancer | Cervical Cancer | Cancer Research UK. (2020, May 20)<https://www.cancerresearchuk.org/about->
-       cancer/cervical-cancer/living-with/fertility.
+[^5]:  Fertility and cervical cancer. Fertility and cervical cancer, Cervical Cancer, Cancer Research UK. (2020, May 20) <https://www.cancerresearchuk.org/about/
+       cancer/cervical-cancer/living-with/fertility>.
