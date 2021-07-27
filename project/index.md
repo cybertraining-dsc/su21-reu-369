@@ -84,6 +84,7 @@ Optimization Based Machine Learning Method, was a big aid throught the project e
 may cause. With the data that was used from UCI Machine we were able to find efficent up to data correlated to machine learning. 
 
 ## 4.  Explantion of Confusion Matrix 
+The confusion matrix that was outputted from the end of the code can be explained as the perdicted summary results of the data obtained. Zero is when no cervical cancer is witnessed, one is when cervical cancer is seen. A hundrend and sixty-two is the highest number of this disease seen on the chart and the lowest number being winessed is two and eight being quiet of a jump. 
 
 ## 5 Benchmark
 
