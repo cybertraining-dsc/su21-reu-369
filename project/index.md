@@ -88,7 +88,7 @@ The confusion matrix that was outputted from the end of the code can be explaine
 
 ## 5 Benchmark
 
-Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
+![figure4](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/Screen%20Shot%202021-07-27%20at%201.11.05%20PM.png)
  
 ## 6. Conclusion
 
