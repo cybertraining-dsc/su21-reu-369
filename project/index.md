@@ -86,7 +86,7 @@ may cause. With the data that was used from UCI Machine we were able to find eff
 ## 4.  Explantion of Confusion Matrix 
 The confusion matrix that was outputted from the end of the code can be explained as the perdicted summary results of the data obtained. Zero is when no cervical cancer is witnessed, one is when cervical cancer is seen. A hundrend and sixty-two is the highest number of this disease seen on the chart and the lowest number being winessed is two and eight being quiet of a jump. 
 
-## 5 Benchmark
+## 5. Benchmark
 
 ![figure4](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/Screen%20Shot%202021-07-27%20at%201.11.05%20PM.png)
  
