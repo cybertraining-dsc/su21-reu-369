@@ -52,15 +52,15 @@ the cervixs
 
 
 ## 2. DataSets
-The Data sets obatained show the primary risk factor that affect women ages 19 and abve. The few factor that sticked you the most was the age,start of sexual 
-activity,tabacoo intake, and medical status. The age is a primary factor 
-
-- resources: <https://ieeexplore.ieee.org/document/8691126>
+The Data sets obatained shows the primary risk factors that affect women ages 15 and above. The few factors that sticked out the most were age, start of sexual 
+activity, tabacoo intake, and IUD. The age and start of sexual activity maybe primary factor because a  person is more liable to catch an STD and get this diease
+from mutiple parnters never really knowing  what the other person may be doing outside of the encounterment. Tabcoo intake causes an affect making a person by
+weaking the immune system and making somone more septable to the disease. The IUD has the highest number on the data set being a primary factor that may put a person at risk, this device aids the prevention of pregency by thickneing the mucos of the cervix that could later cause infection or make your more spetiable to them.
  
 ## 3. Other People Works
 
-research of work others have done with the data set and what is  learned from others work.
-put a refrence in section #9 for each work i have found 
+The research of others work has made a huge imapact to this project starting from data to important knowledge needed to conduct the project. With research we were 
+able to witness what affects of many fay to day activites we part take in, that we did not know could affect us. The "Cervical Cancer Diagnosis Using a Chicken Swarm Optimization Based Machine Learning Method," was a big aid throught the project explaing the stages of cervical cancer, ways to be treated, and the affects it may cause. With the data that was used from 
 
 ## 4. Correlation Between Data  
 
@@ -94,3 +94,4 @@ With the help of Gregor, Yohn and carlos this project was acheieved with the bes
 
 [^5]:  Fertility and cervical cancer. Fertility and cervical cancer, Cervical Cancer, Cancer Research UK. (2020, May 20) <https://www.cancerresearchuk.org/about/
        cancer/cervical-cancer/living-with/fertility>.
+https://ieeexplore.ieee.org/document/8691126>
