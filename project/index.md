@@ -59,7 +59,10 @@ weaking the immune system and making somone more septable to the disease. The IU
  
 ## IUD Visulaization 
  
-## 3. Tabccoo vs Cervixs 
+![figure 2](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/cervical%20iud%20.jpg)
+
+## Tabacoo Visulization Affect On Cervixs 
+
 ![Figure 3](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/tab.png)
 
 ## 3. Other People Works
