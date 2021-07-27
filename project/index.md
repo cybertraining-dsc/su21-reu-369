@@ -71,16 +71,17 @@ them.
 
 ![Figure 3](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/tab.png)
 
+## Correlation of Age and Start Of sexual activity 
+
+![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/download-2021-06-29T15-34-01-628Z.png)
+
+
 ## 3. Other People Works
 
 The research of others work has made a huge imapact to this project starting from data to important knowledge needed to conduct the project. With the various
 research sites, we were able to witness what the affects various day to day activtie affect women long term. The Cervical Cancer Diagnosis Using a Chicken Swarm
 Optimization Based Machine Learning Method, was a big aid throught the project explaing the stages of cervical cancer, ways it can be treated, and the affects it
 may cause. With the data that was used from UCI Machine we were able to find efficent up to data correlated to machine learning. 
-
-## Correlation of Age and Start Of sexual activity 
-
-![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/download-2021-06-29T15-34-01-628Z.png)
 
 ## 5 Benchmark
 
