@@ -52,10 +52,9 @@ the cervixs
 
 
 ## 2. DataSets
+The Data sets obatained show the primary risk factor that affect women ages 19 and abve. The few factor that sticked you the most was the age,start of sexual 
+activity,tabacoo intake, and medical status. The age is a primary factor 
 
-- The age of a person 
-- Medical status 
-- Tabacoo intake 
 - resources: <https://ieeexplore.ieee.org/document/8691126>
  
 ## 3. Other People Works
@@ -63,7 +62,7 @@ the cervixs
 research of work others have done with the data set and what is  learned from others work.
 put a refrence in section #9 for each work i have found 
 
-## 4. Images 
+## 4. Correlation Between Data  
 
 ![Figure 1](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/download-2021-06-29T15-34-01-628Z.png)
 
@@ -77,7 +76,7 @@ A convincing but not fake conclusion should summarize what the conclusion of the
 
 ## 7. Acknowledgments
 
-With the help of Gregor, Yohn and carlos this project was acheieved witj the best with the best results possible.
+With the help of Gregor, Yohn and carlos this project was acheieved with the best with the best results possible. Thank you!
 
 ## 8. References
 
