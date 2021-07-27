@@ -57,6 +57,11 @@ activity, tabacoo intake, and IUD. The age and start of sexual activity maybe pr
 from mutiple parnters never really knowing  what the other person may be doing outside of the encounterment. Tabcoo intake causes an affect making a person by
 weaking the immune system and making somone more septable to the disease. The IUD has the highest number on the data set being a primary factor that may put a person at risk, this device aids the prevention of pregency by thickneing the mucos of the cervix that could later cause infection or make your more spetiable to them.
  
+## IUD Visulaization 
+ 
+## 3. Tabccoo vs Cervixs 
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/images/tab.png)
+
 ## 3. Other People Works
 
 The research of others work has made a huge imapact to this project starting from data to important knowledge needed to conduct the project. With research we were 
