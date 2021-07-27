@@ -113,4 +113,5 @@ With the help of Gregor, Yohn and carlos this project was acheieved with the bes
 
 [^5]:  Fertility and cervical cancer. Fertility and cervical cancer, Cervical Cancer, Cancer Research UK. (2020, May 20) <https://www.cancerresearchuk.org/about/
        cancer/cervical-cancer/living-with/fertility>.
-https://ieeexplore.ieee.org/document/8691126>
+
+[^6]:  Analysis of risk factors for cervical cancer based on machine learning methods. IEEE Xplore. (n.d.). https://ieeexplore.ieee.org/document/8691126/. 
