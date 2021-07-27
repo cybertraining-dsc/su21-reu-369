@@ -22,7 +22,9 @@ Theresa Jean-Baptistee, [su21-reu-369](https://github.com/cybertraining-dsc/su21
 
 ## Abstract
 
-Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing higher chances of this cancer. In order to analyize these risk factors a machine learning technique is implemented to help us understand the leading factors of cervical cancer.
+Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing
+higher chances of this cancer. In order to analyize these risk factors a machine learning technique is implemented to help us understand the leading factors of
+cervical cancer.
 
 Contents
 
@@ -34,7 +36,11 @@ Contents
 
 ## 1. Introduction
 
-Cervical cancer is a disease that is increasing in various women nationwide. It occurs within the cells of the cervix (can be seen in stage 1 of the image below). This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. Cervical cancer occurs most commonly in women who are within their 50's and who has symptoms such as watery and bloody discharge, bleeding, and painful intercourse. Two other common causes can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this disease is through a pap smear. When witnessed early it, can allow a better chance of results and treatment. 
+Cervical cancer is a disease that is increasing in various women nationwide. It occurs within the cells of the cervix (can be seen in stage 1 of the image below).
+This cancer is the fourth leading cancer, where there are about 52,800 cases found each year, predominantly being in lower developed countries. Cervical cancer
+occurs most commonly in women who are within their 50's and who has symptoms such as watery and bloody discharge, bleeding, and painful intercourse. Two other
+common causes can be an early start on sexual activity and multiple partners. The most common way to determine if one may be affected by this disease is through a
+pap smear. When witnessed early it, can allow a better chance of results and treatment. 
 
 Cervical cancer is so important for the future of reproduction, being the cause of a successful or unsuccessful birth with completions like premature a child. The 
 cervix help keeps the fetus stable within the uterus during this cycle, towards the end of development, it softens and dilates for the birth of a child. If
@@ -42,11 +48,9 @@ diagnosed with this cancer, a  miracle would be needed to conceive a child after
 cervical tissue. As it continues, to spread radiotherapy might be recommended to treat the cancer where may affect the womb. lastly, one may need to have a
 hysterectomy which is the removal of the womb.
  
-In this paper, we will study the exact cause and risk factors that may place someone in this position. If spotted early it wouldn’t affect someone’s dream chance of conceiving or affect their reproductive parts. Using various data sets we will study the way everything may alignes in causes and machine leaning would be the primary technique to used interpretate the relation between variables and risk factor on cervical cancer.
-
-- Find literature on Cervical Cancer and images of Cervics 
-- Analyzing reading and explain the importance of cancer in the cervix and along with how it affects the future of 
-the cervixs
+In this paper, we will study the exact cause and risk factors that may place someone in this position. If spotted early it wouldn’t affect someone’s dream chance
+of conceiving or affect their reproductive parts. Using various data sets we will study the way everything may alignes in causes and machine leaning would be the
+primary technique to used interpretate the relation between variables and risk factor on cervical cancer.
 
 ![Figure 2](https://raw.githubusercontent.com/cybertraining-dsc/su21-reu-369/main/project/images/Cervical-Cancer-1024x624.jpg)
 
@@ -55,7 +59,9 @@ the cervixs
 The Data sets obatained shows the primary risk factors that affect women ages 15 and above. The few factors that sticked out the most were age, start of sexual 
 activity, tabacoo intake, and IUD. The age and start of sexual activity maybe primary factor because a  person is more liable to catch an STD and get this diease
 from mutiple parnters never really knowing  what the other person may be doing outside of the encounterment. Tabcoo intake causes an affect making a person by
-weaking the immune system and making somone more septable to the disease. The IUD has the highest number on the data set being a primary factor that may put a person at risk, this device aids the prevention of pregency by thickneing the mucos of the cervix that could later cause infection or make your more spetiable to them.
+weaking the immune system and making somone more septable to the disease. The IUD has the highest number on the data set being a primary factor that may put a
+person at risk, this device aids the prevention of pregency by thickneing the mucos of the cervix that could later cause infection or make your more spetiable to
+them.
  
 ## IUD Visulaization 
  
@@ -67,8 +73,10 @@ weaking the immune system and making somone more septable to the disease. The IU
 
 ## 3. Other People Works
 
-The research of others work has made a huge imapact to this project starting from data to important knowledge needed to conduct the project. With research we were 
-able to witness what affects of many fay to day activites we part take in, that we did not know could affect us. The "Cervical Cancer Diagnosis Using a Chicken Swarm Optimization Based Machine Learning Method," was a big aid throught the project explaing the stages of cervical cancer, ways to be treated, and the affects it may cause. With the data that was used from 
+The research of others work has made a huge imapact to this project starting from data to important knowledge needed to conduct the project. With the various
+research sites, we were able to witness what the affects various day to day activtie affect women long term. The Cervical Cancer Diagnosis Using a Chicken Swarm
+Optimization Based Machine Learning Method, was a big aid throught the project explaing the stages of cervical cancer, ways it can be treated, and the affects it
+may cause. With the data that was used from UCI Machine we were able to find efficent up to data correlated to machine learning 
 
 ## 4. Correlation Between Data  
 
