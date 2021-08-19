@@ -1,12 +1,12 @@
 ---
 owner:
-  firstname: "Jeanbaptiste"
-  lastname: "Theresa"
+  firstname: "Theresa"
+  lastname: "Jean-Baptiste"
   hid: "su21-reu-369"
   community: "reu"
-  semester: "sp21"
+  semester: "su21"
 project:
-  title: Increasing Cervical Cancer Risk Analysis
-  url: https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/index.md
-  author: "Theresa Jean-Baptiste"
+  title: "Increasing Cervical Cancer Risk Analysis"
+  url: "https://github.com/cybertraining-dsc/su21-reu-369/blob/main/project/index.md"
+  author:
     - su21-reu-369
