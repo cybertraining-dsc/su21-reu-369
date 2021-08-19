@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: "Increasing Cervical Cancer Risk Analysis"
+title: "Project: Increasing Cervical Cancer Risk Analysis"
 linkTitle: "Cervical Cancer"
 tags: ["project", "reu", "health"]
 description: "Cervical Cancer is an increasing matter that is affecting various women across the nation, in this project we will be analyzing risk factors that are producing higher chances of this cancer. In order to analyze these risk factors a machine learning technique is implemented to help us understand the leading factors of cervical cancer."
