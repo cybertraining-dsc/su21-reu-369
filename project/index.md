@@ -68,15 +68,15 @@ weaking the immune system and making somone more septable to the disease. The IU
 person at risk, this device aids the prevention of pregency by thickneing the mucos of the cervix that could later cause infection or make your more spetiable to
 them.
  
-## IUD Visualization 
+### IUD Visualization 
  
 ![figure 2](https://github.com/cybertraining-dsc/su21-reu-369/raw/main/project/images/cervical%20iud%20.jpg)
 
-## Tabacoo Visulization Affect On Cervixs 
+### Tobacco Affect Visualization On Cervix 
 
 ![Figure 3](https://github.com/cybertraining-dsc/su21-reu-369/raw/main/project/images/tab.png)
 
-## Correlation of Age and Start of Sexual Activity
+### Correlation of Age and Start of Sexual Activity
 
 ![Figure 1](https://github.com/cybertraining-dsc/su21-reu-369/raw/main/project/images/download-2021-06-29T15-34-01-628Z.png)
 
